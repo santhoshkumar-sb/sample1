@@ -1,0 +1,24 @@
+.head{
+    color: black
+}
+#box{
+     margin-left: 200px;
+     margin-top: 100px;
+    
+    border: 2px solid black;
+
+    
+   
+}
+#boxx{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+
+
+}
+.h1{
+    border-style: none;
+    
+}
